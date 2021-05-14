@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Deco
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.csproj", "{F558250D-BEAE-4388-80DD-2ECA08C40155}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Memento\Memento.csproj", "{781BB8E2-1ED6-4F2E-A371-83F0327336EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Memento", "Memento\Memento.csproj", "{781BB8E2-1ED6-4F2E-A371-83F0327336EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{1E8B9120-3D96-4A34-B5C8-A9AC2BADBD11}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{781BB8E2-1ED6-4F2E-A371-83F0327336EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{781BB8E2-1ED6-4F2E-A371-83F0327336EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{781BB8E2-1ED6-4F2E-A371-83F0327336EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E8B9120-3D96-4A34-B5C8-A9AC2BADBD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8B9120-3D96-4A34-B5C8-A9AC2BADBD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8B9120-3D96-4A34-B5C8-A9AC2BADBD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8B9120-3D96-4A34-B5C8-A9AC2BADBD11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
